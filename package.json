@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "Inject style tag to document head.",
   "main": "dist/style-inject.js",
-  "module": "dist/style-inject.es.js",
+  "module": "dist/style-inject.mjs",
   "scripts": {
     "test": "echo lol",
     "build": "bili --format umd,es",
